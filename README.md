@@ -1,6 +1,7 @@
+# Fusion of multi-scale feature extraction & adaptive multi-channel graph neural network for 12-lead ECG classification
 
 ### Dataset Download
-The `PTB-XL` dataset can be downloaded from the [Physionet website](https://physionet.org/content/ptb-xl/1.0.1/).
+ `PTB-XL` dataset can be downloaded from the [Physionet website](https://physionet.org/content/ptb-xl/1.0.1/).
 
 ### Implement
 
@@ -17,7 +18,7 @@ win10
 - `models` contains scripts for each model
 - `utils` contains utilities for `ecg_data`,  and `metrics`
 
-### Logs and checkpoints
+### Logs & checkpoints
 - The logs are saved in `logs/` directory.
 - The model checkpoints are saved in `checkpoints/` directory.
 
